@@ -15,10 +15,14 @@ Embark on a journey of discovery through the timeless wisdom of the Mahabharata 
 
 Excited to dive in? Follow these simple steps:
 
-1. Clone the repository: `[git clone https://github.com/LuniaKunal/AI-powered-Mahabharata-Search.git]`
-2. Install dependencies (refer to the project's README for specific instructions).
-3. Launch the search application (instructions will be provided in the README).
-4. Start exploring the Mahabharata like never before!
+1. Clone the repository: `[git clone https://github.com/LuniaKunal/AI-powered-Mahabharata-Search.git]`.
+2. Do `cd AI-powered-Mahabharata-Search`.
+3. Create a Virtual Enviroment `python -m venv venv`.
+4. Activate Virtual Enviroment by `venv/Scripts/activate`.
+5. Install dependencies from `requirements.txt` using `pip install requirements.txt`.
+6. Install Mahabharat pdf - `https://library.bjp.org/jspui/bitstream/123456789/851/2/Mahabharata%20%28Unabridged%20in%20English%29.pdf`.
+7. Launch the search application.
+8. Start exploring the Mahabharata like never before!
 
 **Contributing:**
 
