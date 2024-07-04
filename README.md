@@ -15,7 +15,7 @@ Embark on a journey of discovery through the timeless wisdom of the Mahabharata 
 
 Excited to dive in? Follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/LuniaKunal/AI-powered-Mahabharata-Search.git`
+1. Clone the repository: `[git clone https://github.com/LuniaKunal/AI-powered-Mahabharata-Search.git]`
 2. Install dependencies (refer to the project's README for specific instructions).
 3. Launch the search application (instructions will be provided in the README).
 4. Start exploring the Mahabharata like never before!
